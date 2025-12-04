@@ -1,0 +1,56 @@
+{
+    "name": "Jan Kowalski",
+    "email": "jan.kowalski@example.com",
+    "userInformation": "Pilne zamówienie - potrzebne na przyszły tydzień",
+    "saveBox": [
+        {
+            "id": "enc-001",
+            "name": "Skrzynka 300x200x150",
+            "code": "ENC-300-200-150",
+            "quantity": 0,
+            "currentConfig": {
+                "box_type": "terminal_boxe",
+                "comment": "Standardowa konfiguracja",
+                "glands": [
+                    {
+                        "side": "top",
+                        "items": [
+                            {
+                                "size": "M20",
+                                "quantity": 3,
+                                "material": "PA"
+                            },
+                            {
+                                "size": "M16",
+                                "quantity": 2,
+                                "material": "PA"
+                            }
+                        ]
+                    },
+                    {
+                        "side": "down",
+                        "items": [
+                            {
+                                "size": "M12",
+                                "quantity": 4,
+                                "material": "Brass"
+                            }
+                        ]
+                    }
+                ],
+                "terminals": [
+                    {
+                        "size": "2,5mm",
+                        "quantity": 8,
+                        "color": "blue"
+                    },
+                    {
+                        "size": "4mm",
+                        "quantity": 5,
+                        "color": "blue"
+                    }
+                ]
+            }
+        }
+    ]
+}

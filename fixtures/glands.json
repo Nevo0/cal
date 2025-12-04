@@ -1,0 +1,165 @@
+{
+  "glands": [
+    {
+      "size": "M12",
+      "diameter_mm": 12,
+      "physical_diameter_mm": 16,
+      "cable_range_min": 3,
+      "cable_range_max": 6.5,
+      "material": "PA",
+      "price": "2.50",
+      "catalog_number": "GLD-M12-PA"
+    },
+    {
+      "size": "M16",
+      "diameter_mm": 16,
+      "physical_diameter_mm": 20,
+      "cable_range_min": 4,
+      "cable_range_max": 10,
+      "material": "PA",
+      "price": "3.20",
+      "catalog_number": "GLD-M16-PA"
+    },
+    {
+      "size": "M20",
+      "diameter_mm": 20,
+      "physical_diameter_mm": 25,
+      "cable_range_min": 6,
+      "cable_range_max": 13,
+      "material": "PA",
+      "price": "4.10",
+      "catalog_number": "GLD-M20-PA"
+    },
+    {
+      "size": "M25",
+      "diameter_mm": 25,
+      "physical_diameter_mm": 30,
+      "cable_range_min": 13,
+      "cable_range_max": 18,
+      "material": "PA",
+      "price": "5.50",
+      "catalog_number": "GLD-M25-PA"
+    },
+    {
+      "size": "M32",
+      "diameter_mm": 32,
+      "physical_diameter_mm": 37,
+      "cable_range_min": 18,
+      "cable_range_max": 25,
+      "material": "PA",
+      "price": "7.80",
+      "catalog_number": "GLD-M32-PA"
+    },
+    {
+      "size": "M40",
+      "diameter_mm": 40,
+      "physical_diameter_mm": 46,
+      "cable_range_min": 25,
+      "cable_range_max": 32,
+      "material": "PA",
+      "price": "10.50",
+      "catalog_number": "GLD-M40-PA"
+    },
+    {
+      "size": "M50",
+      "diameter_mm": 50,
+      "physical_diameter_mm": 56,
+      "cable_range_min": 32,
+      "cable_range_max": 38,
+      "material": "PA",
+      "price": "14.20",
+      "catalog_number": "GLD-M50-PA"
+    },
+    {
+      "size": "M63",
+      "diameter_mm": 63,
+      "physical_diameter_mm": 70,
+      "cable_range_min": 42,
+      "cable_range_max": 53,
+      "material": "PA",
+      "price": "19.50",
+      "catalog_number": "GLD-M63-PA"
+    },
+    {
+      "size": "M12",
+      "diameter_mm": 12,
+      "physical_diameter_mm": 16,
+      "cable_range_min": 3,
+      "cable_range_max": 6.5,
+      "material": "Brass",
+      "price": "4.80",
+      "catalog_number": "GLD-M12-BR"
+    },
+    {
+      "size": "M16",
+      "diameter_mm": 16,
+      "physical_diameter_mm": 20,
+      "cable_range_min": 4,
+      "cable_range_max": 10,
+      "material": "Brass",
+      "price": "6.40",
+      "catalog_number": "GLD-M16-BR"
+    },
+    {
+      "size": "M20",
+      "diameter_mm": 20,
+      "physical_diameter_mm": 25,
+      "cable_range_min": 6,
+      "cable_range_max": 13,
+      "material": "Brass",
+      "price": "8.20",
+      "catalog_number": "GLD-M20-BR"
+    },
+    {
+      "size": "M25",
+      "diameter_mm": 25,
+      "physical_diameter_mm": 30,
+      "cable_range_min": 13,
+      "cable_range_max": 18,
+      "material": "Brass",
+      "price": "11.00",
+      "catalog_number": "GLD-M25-BR"
+    },
+    {
+      "size": "M32",
+      "diameter_mm": 32,
+      "physical_diameter_mm": 37,
+      "cable_range_min": 18,
+      "cable_range_max": 25,
+      "material": "Brass",
+      "price": "15.60",
+      "catalog_number": "GLD-M32-BR"
+    },
+    {
+      "size": "M40",
+      "diameter_mm": 40,
+      "physical_diameter_mm": 46,
+      "cable_range_min": 25,
+      "cable_range_max": 32,
+      "material": "Brass",
+      "price": "21.00",
+      "catalog_number": "GLD-M40-BR"
+    },
+    {
+      "size": "M50",
+      "diameter_mm": 50,
+      "physical_diameter_mm": 56,
+      "cable_range_min": 32,
+      "cable_range_max": 38,
+      "material": "Brass",
+      "price": "28.40",
+      "catalog_number": "GLD-M50-BR"
+    },
+    {
+      "size": "M63",
+      "diameter_mm": 63,
+      "physical_diameter_mm": 70,
+      "cable_range_min": 42,
+      "cable_range_max": 53,
+      "material": "Brass",
+      "price": "39.00",
+      "catalog_number": "GLD-M63-BR"
+    }
+  ]
+}
+

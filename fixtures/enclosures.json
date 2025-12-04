@@ -1,0 +1,249 @@
+{
+  "enclosures": [
+    {
+      "name": "Skrzynka 300x200x150",
+      "code": "ENC-300-200-150",
+      "dimension_width": 300,
+      "dimension_height": 200,
+      "dimension_depth": 150,
+      "price": "125.50",
+      "mounting_areas": {
+        "top": {"x": 280, "y": 180},
+        "down": {"x": 280, "y": 180},
+        "left": {"x": 180, "y": 130},
+        "right": {"x": 180, "y": 130}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 12,
+        "2,5mm": 9,
+        "4mm": 8,
+        "6mm": 7,
+        "10mm": 5,
+        "16mm": 3,
+        "25mm": 2,
+        "35mm": 1
+      }
+    },
+    {
+      "name": "Skrzynka 400x300x200",
+      "code": "ENC-400-300-200",
+      "dimension_width": 400,
+      "dimension_height": 300,
+      "dimension_depth": 200,
+      "price": "185.00",
+      "mounting_areas": {
+        "top": {"x": 380, "y": 280},
+        "down": {"x": 380, "y": 280},
+        "left": {"x": 280, "y": 180},
+        "right": {"x": 280, "y": 180}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 20,
+        "2,5mm": 15,
+        "4mm": 12,
+        "6mm": 10,
+        "10mm": 8,
+        "16mm": 5,
+        "25mm": 3,
+        "35mm": 2
+      }
+    },
+    {
+      "name": "Skrzynka 500x400x200",
+      "code": "ENC-500-400-200",
+      "dimension_width": 500,
+      "dimension_height": 400,
+      "dimension_depth": 200,
+      "price": "245.00",
+      "mounting_areas": {
+        "top": {"x": 480, "y": 380},
+        "down": {"x": 480, "y": 380},
+        "left": {"x": 380, "y": 180},
+        "right": {"x": 380, "y": 180}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 30,
+        "2,5mm": 24,
+        "4mm": 20,
+        "6mm": 16,
+        "10mm": 12,
+        "16mm": 8,
+        "25mm": 5,
+        "35mm": 3,
+        "50mm": 2
+      }
+    },
+    {
+      "name": "Skrzynka 600x400x200",
+      "code": "ENC-600-400-200",
+      "dimension_width": 600,
+      "dimension_height": 400,
+      "dimension_depth": 200,
+      "price": "295.00",
+      "mounting_areas": {
+        "top": {"x": 580, "y": 380},
+        "down": {"x": 580, "y": 380},
+        "left": {"x": 380, "y": 180},
+        "right": {"x": 380, "y": 180}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 40,
+        "2,5mm": 32,
+        "4mm": 26,
+        "6mm": 22,
+        "16mm": 10,
+        "25mm": 6,
+        "35mm": 4,
+        "50mm": 3
+      }
+    },
+    {
+      "name": "Skrzynka 800x600x300",
+      "code": "ENC-800-600-300",
+      "dimension_width": 800,
+      "dimension_height": 600,
+      "dimension_depth": 300,
+      "price": "485.00",
+      "mounting_areas": {
+        "top": {"x": 780, "y": 580},
+        "down": {"x": 780, "y": 580},
+        "left": {"x": 580, "y": 280},
+        "right": {"x": 580, "y": 280}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 60,
+        "2,5mm": 48,
+        "4mm": 40,
+        "6mm": 32,
+        "10mm": 24,
+        "16mm": 16,
+        "25mm": 10,
+        "35mm": 6,
+        "50mm": 4,
+        "70mm": 3
+      }
+    },
+    {
+      "name": "Skrzynka kompaktowa 200x150x100",
+      "code": "ENC-200-150-100",
+      "dimension_width": 200,
+      "dimension_height": 150,
+      "dimension_depth": 100,
+      "price": "78.50",
+      "mounting_areas": {
+        "top": {"x": 180, "y": 130},
+        "down": {"x": 180, "y": 130},
+        "left": {"x": 130, "y": 80},
+        "right": {"x": 130, "y": 80}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 6,
+        "2,5mm": 4,
+        "4mm": 3,
+        "6mm": 2,
+        "10mm": 1
+      }
+    },
+    {
+      "name": "Skrzynka 400x400x200",
+      "code": "ENC-400-400-200",
+      "dimension_width": 400,
+      "dimension_height": 400,
+      "dimension_depth": 200,
+      "price": "215.00",
+      "mounting_areas": {
+        "top": {"x": 380, "y": 380},
+        "down": {"x": 380, "y": 380},
+        "left": {"x": 380, "y": 180},
+        "right": {"x": 380, "y": 180}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 25,
+        "2,5mm": 20,
+        "4mm": 16,
+        "6mm": 12,
+        "10mm": 9,
+        "16mm": 6,
+        "25mm": 4,
+        "35mm": 2
+      }
+    },
+    {
+      "name": "Skrzynka 600x500x250",
+      "code": "ENC-600-500-250",
+      "dimension_width": 600,
+      "dimension_height": 500,
+      "dimension_depth": 250,
+      "price": "345.00",
+      "mounting_areas": {
+        "top": {"x": 580, "y": 480},
+        "down": {"x": 580, "y": 480},
+        "left": {"x": 480, "y": 230},
+        "right": {"x": 480, "y": 230}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 50,
+        "2,5mm": 40,
+        "4mm": 32,
+        "6mm": 26,
+        "10mm": 20,
+        "16mm": 12,
+        "25mm": 8,
+        "35mm": 5,
+        "50mm": 3
+      }
+    },
+    {
+      "name": "Skrzynka 1000x800x400",
+      "code": "ENC-1000-800-400",
+      "dimension_width": 1000,
+      "dimension_height": 800,
+      "dimension_depth": 400,
+      "price": "795.00",
+      "mounting_areas": {
+        "top": {"x": 980, "y": 780},
+        "down": {"x": 980, "y": 780},
+        "left": {"x": 780, "y": 380},
+        "right": {"x": 780, "y": 380}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 100,
+        "2,5mm": 80,
+        "4mm": 64,
+        "6mm": 52,
+        "10mm": 40,
+        "16mm": 26,
+        "25mm": 16,
+        "35mm": 10,
+        "50mm": 6,
+        "70mm": 4,
+        "95mm": 3
+      }
+    },
+    {
+      "name": "Skrzynka 300x300x150",
+      "code": "ENC-300-300-150",
+      "dimension_width": 300,
+      "dimension_height": 300,
+      "dimension_depth": 150,
+      "price": "145.00",
+      "mounting_areas": {
+        "top": {"x": 280, "y": 280},
+        "down": {"x": 280, "y": 280},
+        "left": {"x": 280, "y": 130},
+        "right": {"x": 280, "y": 130}
+      },
+      "enclosure_terminals": {
+        "1,5mm": 15,
+        "2,5mm": 12,
+        "4mm": 10,
+        "6mm": 8,
+        "10mm": 6,
+        "16mm": 4,
+        "25mm": 2,
+        "35mm": 1
+      }
+    }
+  ]
+}
+

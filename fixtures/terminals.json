@@ -1,0 +1,302 @@
+{
+  "terminals": [
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "0.95",
+      "catalog_number": "TERM-1.5-BL"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.20",
+      "catalog_number": "TERM-2.5-BL"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.35",
+      "catalog_number": "TERM-4-BL"
+    },
+    {
+      "wire_cross_section": "6mm",
+      "width_mm": 8.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 41,
+      "price": "1.80",
+      "catalog_number": "TERM-6-BL"
+    },
+    {
+      "wire_cross_section": "10mm",
+      "width_mm": 10.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 57,
+      "price": "2.50",
+      "catalog_number": "TERM-10-BL"
+    },
+    {
+      "wire_cross_section": "16mm",
+      "width_mm": 12.4,
+      "color": "blue",
+      "voltage": 800,
+      "current": 76,
+      "price": "3.80",
+      "catalog_number": "TERM-16-BL"
+    },
+    {
+      "wire_cross_section": "25mm",
+      "width_mm": 15.2,
+      "color": "blue",
+      "voltage": 800,
+      "current": 101,
+      "price": "6.20",
+      "catalog_number": "TERM-25-BL"
+    },
+    {
+      "wire_cross_section": "35mm",
+      "width_mm": 18.4,
+      "color": "blue",
+      "voltage": 800,
+      "current": 125,
+      "price": "8.50",
+      "catalog_number": "TERM-35-BL"
+    },
+    {
+      "wire_cross_section": "50mm",
+      "width_mm": 22.5,
+      "color": "blue",
+      "voltage": 800,
+      "current": 151,
+      "price": "12.80",
+      "catalog_number": "TERM-50-BL"
+    },
+    {
+      "wire_cross_section": "70mm",
+      "width_mm": 27.5,
+      "color": "blue",
+      "voltage": 800,
+      "current": 192,
+      "price": "18.50",
+      "catalog_number": "TERM-70-BL"
+    },
+    {
+      "wire_cross_section": "95mm",
+      "width_mm": 32.5,
+      "color": "blue",
+      "voltage": 800,
+      "current": 232,
+      "price": "25.00",
+      "catalog_number": "TERM-95-BL"
+    },
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "1.05",
+      "catalog_number": "TERM-1.5-YE"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.30",
+      "catalog_number": "TERM-2.5-YE"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.45",
+      "catalog_number": "TERM-4-YE"
+    },
+    {
+      "wire_cross_section": "6mm",
+      "width_mm": 8.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 41,
+      "price": "1.90",
+      "catalog_number": "TERM-6-YE"
+    },
+    {
+      "wire_cross_section": "10mm",
+      "width_mm": 10.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 57,
+      "price": "2.60",
+      "catalog_number": "TERM-10-YE"
+    },
+    {
+      "wire_cross_section": "16mm",
+      "width_mm": 12.4,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 76,
+      "price": "3.95",
+      "catalog_number": "TERM-16-YE"
+    },
+    {
+      "wire_cross_section": "25mm",
+      "width_mm": 15.2,
+      "color": "yellow",
+      "voltage": 800,
+      "current": 101,
+      "price": "6.40",
+      "catalog_number": "TERM-25-YE"
+    },
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "green",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "1.00",
+      "catalog_number": "TERM-1.5-GR"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "green",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.25",
+      "catalog_number": "TERM-2.5-GR"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "green",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.40",
+      "catalog_number": "TERM-4-GR"
+    },
+    {
+      "wire_cross_section": "6mm",
+      "width_mm": 8.2,
+      "color": "green",
+      "voltage": 800,
+      "current": 41,
+      "price": "1.85",
+      "catalog_number": "TERM-6-GR"
+    },
+    {
+      "wire_cross_section": "10mm",
+      "width_mm": 10.2,
+      "color": "green",
+      "voltage": 800,
+      "current": 57,
+      "price": "2.55",
+      "catalog_number": "TERM-10-GR"
+    },
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "red",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "1.05",
+      "catalog_number": "TERM-1.5-RD"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "red",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.30",
+      "catalog_number": "TERM-2.5-RD"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "red",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.45",
+      "catalog_number": "TERM-4-RD"
+    },
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "black",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "0.98",
+      "catalog_number": "TERM-1.5-BK"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "black",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.22",
+      "catalog_number": "TERM-2.5-BK"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "black",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.38",
+      "catalog_number": "TERM-4-BK"
+    },
+    {
+      "wire_cross_section": "6mm",
+      "width_mm": 8.2,
+      "color": "black",
+      "voltage": 800,
+      "current": 41,
+      "price": "1.82",
+      "catalog_number": "TERM-6-BK"
+    },
+    {
+      "wire_cross_section": "1,5mm",
+      "width_mm": 5.2,
+      "color": "gray",
+      "voltage": 800,
+      "current": 17.5,
+      "price": "0.97",
+      "catalog_number": "TERM-1.5-GY"
+    },
+    {
+      "wire_cross_section": "2,5mm",
+      "width_mm": 6.2,
+      "color": "gray",
+      "voltage": 800,
+      "current": 24,
+      "price": "1.21",
+      "catalog_number": "TERM-2.5-GY"
+    },
+    {
+      "wire_cross_section": "4mm",
+      "width_mm": 6.2,
+      "color": "gray",
+      "voltage": 800,
+      "current": 32,
+      "price": "1.36",
+      "catalog_number": "TERM-4-GY"
+    }
+  ]
+}
+
