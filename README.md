@@ -35,7 +35,7 @@ Witaj! To zadanie rekrutacyjne potrwa około 2 godzin.
 ### Krok 1: Pobierz kod zadania
 ```bash
 # Sklonuj to repozytorium
-git clone <URL_TEGO_REPOZYTORIUM>
+git clone git@github.com:Nevo0/cal.git
 cd cal
 ```
 
